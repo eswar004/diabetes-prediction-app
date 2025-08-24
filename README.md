@@ -2,7 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.x-FF4B4B.svg?logo=streamlit)](https://streamlit.io/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/eswar004/diabetes-prediction-app/blob/main/notebooks/diabetes.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eswar004/diabetes-prediction-app/blob/main/notebooks/diabetes.ipynb)
+
 
 > Machine Learning pipeline + Streamlit app to **predict diabetes risk** from demographic and clinical data.  
 > Includes training notebook, evaluation metrics, visualizations, and an **interactive web app** with adjustable threshold.
